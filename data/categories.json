@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "mesa",
+    "nombre": "Lámparas de mesa",
+    "descripcion": "Lámparas decorativas para mesas de noche, consolas y salas."
+  },
+  {
+    "slug": "pie",
+    "nombre": "Lámparas de pie",
+    "descripcion": "Lámparas altas para dar luz ambiental a rincones y salas."
+  },
+  {
+    "slug": "colgantes",
+    "nombre": "Lámparas colgantes",
+    "descripcion": "Lámparas de techo y colgantes para comedores, cocinas y salas."
+  },
+  {
+    "slug": "pared",
+    "nombre": "Lámparas de pared",
+    "descripcion": "Apliques y lámparas de pared para pasillos, dormitorios y baños."
+  },
+  {
+    "slug": "escritorio",
+    "nombre": "Lámparas de escritorio",
+    "descripcion": "Lámparas de trabajo con brazo articulado y luz enfocada."
+  },
+  {
+    "slug": "exterior",
+    "nombre": "Lámparas de exterior",
+    "descripcion": "Lámparas resistentes al agua para jardines, terrazas y fachadas."
+  }
+]
